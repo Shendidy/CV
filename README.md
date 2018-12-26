@@ -2,7 +2,7 @@
 
 **Links**
 
-[About me](#about-me) | [Skills](#skills) | [Education](#education) | [GitHub](https://github.com/Shendidy?tab=repositories)
+[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [GitHub](https://github.com/Shendidy?tab=repositories)
 ##
 
 ## About me
@@ -20,11 +20,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Experience
 - Achievements
 - Evidence
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
+- Experience
+- Achievements
+- Evidence
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- Experience
+- Achievements
+- Evidence
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
