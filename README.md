@@ -1,12 +1,9 @@
 # Sherif Shendidy
-
 **Links**
-
 [About me](#about-me) | [Skills](#skills)
 ##
-
 ## About me
-Coming to the coding community from the construction industry with a BSc. in civil engineering and where I held the position of project manager for more than 10 years without finding joy and only succeeded due to my dedication and strive to success rather than passion and innovation. Now I’m so determined to live my life doing what I enjoy the most, developing any and all types of software, while working with a team of likeminded people that enjoy putting their brains together to solve problems and deliver a perfect product.
+Coming to the coding community from the construction industry with a BSc. in civil engineering and where I held the position of project manager for more than 10 years without finding joy and only succeeded due to my dedication and strive to success rather than passion and innovation. Now I’m so determined to live my life doing what I enjoy the most, developing any and all types of software, while working with a team of likeminded people that enjoy putting their brains together to solve problems and deliver a perfect product.\n
 [(Back to top)](#sherif-shendidy)
 
 ## Skills
