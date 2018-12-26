@@ -1,8 +1,10 @@
 # Sherif Shendidy
 
-##Links
+## Links
 
-[About me](#about-me)
+[About me](#about-me) | [Skills](#skills)
+
+##
 
 ## About me
 
