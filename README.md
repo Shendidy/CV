@@ -1,6 +1,6 @@
 ## Sherif Shendidy
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Coming to the coding community from the construction industry where I held the position of project manager for more than 10 years without finding joy and only succeeded due to my strive to success rather than passion. Now I’m so determined to live my life doing what I enjoy the most, developing any and all types of software, while working with a team of likeminded people that enjoy putting their brains together to solve problems and deliver a perfect product.
 
 ## Skills
 
