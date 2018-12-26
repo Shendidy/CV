@@ -3,7 +3,6 @@
 ## Links
 
 [About me](#about-me) | [Skills](#skills)
-
 ##
 
 ## About me
