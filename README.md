@@ -25,17 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+[(Back to top)](#sherif-shendidy)
 
 #### Another Skill
 
@@ -48,6 +38,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+[(Back to top)](#sherif-shendidy)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- Experience
+- Achievements
+- Evidence
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+[(Back to top)](#sherif-shendidy)
 
 ## Education
 
@@ -62,17 +68,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+[(Back to top)](#sherif-shendidy)
+
 #### Your University / College (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+[(Back to top)](#sherif-shendidy)
+
+#### Other qualifications
+
+[(Back to top)](#sherif-shendidy)
 
 ## Experience
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
+
+[(Back to top)](#sherif-shendidy)
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+[(Back to top)](#sherif-shendidy)
