@@ -2,7 +2,7 @@
 
 **Links**
 
-[About me](#about-me) | [Skills](#skills)
+[About me](#about-me) | [Skills](#skills) | [Education](#education) | [GitHub](https://github.com/Shendidy?tab=repositories)
 ##
 
 ## About me
