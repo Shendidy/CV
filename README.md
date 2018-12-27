@@ -1,4 +1,4 @@
-<h1>Sherif Shendidy</h1> sherif@shendidy.com
+<h1>Sherif Shendidy - <h4>sherif@shendidy.com</h4></h1>
 
 **Links**
 
