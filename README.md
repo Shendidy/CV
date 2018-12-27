@@ -1,8 +1,8 @@
-<h1>Sherif Shendidy - <h4>sherif@shendidy.com</h4></h1>
+# Sherif Shendidy
 
 **Links**
 
-[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy)
+[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [email me](mailto:sherif@shendidy.com)
 ##
 
 ## About me
