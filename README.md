@@ -9,7 +9,7 @@
 
 Coming to the coding community from the construction industry with a BSc. in civil engineering and where I held the position of project manager for more than 10 years without finding joy and only succeeded due to my dedication and strive to success rather than passion and innovation. Now I’m so determined to live my life doing what I enjoy the most, developing any and all types of software, while working with a team of likeminded people that enjoy putting their brains together to solve problems and deliver a perfect product.
 
-I am a conscientious and hardworking person who’s also able to operate with people at all levels within an organisation and able to gain people's respect and trust. Positive, analytical, problem solving thinker, and quick learner. Equally happy to develop and grow within a project or undertake a one and produce the desired results within a specific time frame, while keeping my company’s interests fulfilled and keeping accurate and detailed records of claims or variations leading situations.
+I am a conscientious and hardworking person who’s also able to operate with people at all levels within an organisation and able to gain people's respect and trust. Positive, analytical, problem solving thinker, and quick learner. Equally happy to develop and grow within a project or undertake one and produce the desired results within a specific time frame, while keeping my company’s interests fulfilled and keeping accurate and detailed records of claims or variations leading situations.
 
 Possessing strong communication, planning, management, and organisational skills gained over several years of professional hard work in the UK, and the Middle East. With the ability to work and integrate in the most challenging and multi-cultural environments, and to develop a great rapport with my colleagues and clients alike.
 
@@ -19,11 +19,11 @@ Possessing strong communication, planning, management, and organisational skills
 
 #### Self Teaching
 
-Since childhood I was so attracted to programming, and started with Basic on my commodore 64 back in the 80s. Later on in university I started reading books about C, then C++. As well as working for free during a summer holiday in a hardware company fixing desktop systems from scratch depending on the specification set by our clients and installing all required software and operating system.
+Since childhood I was so attracted to software development, and started with Basic on my commodore 64 back in the 80s. Later on in university I started reading books about C, then C++. As well as working for free during a summer holiday in a hardware company fixing desktop systems from scratch depending on the specifications set by our clients and installing all required software and operating system.
 
-Later on I started learning Visual Studio and wrote few software using Visual C#, 2 of which are [Text Guard lite](http://shendidy.com/software/textguardlite.html), and [Vapulator](https://www.softpedia.com/get/Others/Home-Education/Vapulator.shtml).
+Later on I started learning Visual Studio and wrote few programs using Visual C#, 2 of which are [Text Guard lite](http://shendidy.com/software/textguardlite.html), and [Vapulator](https://www.softpedia.com/get/Others/Home-Education/Vapulator.shtml).
 
-I also taught myself a bit of flash and developed a very simple and basic online game [Maya in the Park](http://www.shendidy.com/games/mip.html), then my biggest challenge was when I wanted to start a free online lottery site where members can fill their free tickets weekly, can connect with other players and earn more tickets, check their current and previous tickets, and many other options. To do that I researched and learned HTML, CSS, JavaScript, PHP, and MYSQL. check it out at [BigBOF](https://www.bigbof.com).
+I also taught myself a bit of flash and developed a very simple and basic online game [Maya in the Park](http://www.shendidy.com/games/mip.html), then my biggest challenge was when I wanted to start a free online lottery site where members can fill their free tickets weekly, connect with other players and earn more tickets, check their current and previous tickets, check any winnings, claiming their prize if any, and many other options. To do that I researched and learned HTML, CSS, JavaScript, PHP, and MYSQL. From the moment I had the website idea to launch it took me 9 months of learning and implementation during my free time of a 6 days a week very demanding job. Check it out at [BigBOF](https://www.bigbof.com).
 
 [(Back to top)](#sherif-shendidy)
 
@@ -69,7 +69,7 @@ With this mindset, I managed to develop a stable, calm, and analytical approach 
 
 ### Makers Academy Fellowship (January 2019 to March 2019)
 
-As London’s leading software development boot camp, Makers Academy students learn how to code in 16 intensive weeks and are set up with all the skills needed to become a developer. The bootcamp focusing on:
+As London’s leading software development boot camp, Makers Academy students learn how to code in 16 intensive weeks and are set up with all the skills needed to become a developer. The bootcamp focuses on:
 
 - Agile methodologies
 - Object-oriented design
@@ -130,7 +130,10 @@ As London’s leading software development boot camp, Makers Academy students le
 
 Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositories) projects:
 
-
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby |
+|---        |---         |---           |
 
 [(Back to top)](#sherif-shendidy)
 
