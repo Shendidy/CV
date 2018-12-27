@@ -141,7 +141,7 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 ## Hobbies and Interests
 - **Coding:**
 
-    I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, it spent hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
+      I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, it spent hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
 - **Flying:**
 
     To stretch out after a day at the computer.
