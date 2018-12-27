@@ -39,21 +39,21 @@ The way I always preferred to manage my teams was to lead by example and ensure 
 
 "NO" is an answer that can almost always have a negative vibe around it. However, to successfully manage my time and priorities I developed the art of knowing how and when to say it, without stopping the progress of activities that must keep on going.
 
-proposing alternatives, rescheduling tasks based on risks, priorities, and subsequent effects on the overall works schedule, delegating, and discussing available options are my approaches to such regular situations.
+proposing alternatives, rescheduling tasks based on risks, priorities, and subsequent effects on the overall works schedule, delegation, and discussing available options are my approaches to such regular situations.
 
 [(Back to top)](#sherif-shendidy)
 
 #### Communication
 
-I have very good ability to communicate with people (my team, managers, clients, and contractors) and ensuring I have all required information, or delivered all details to other stakeholders.
+I'm confidently able to communicate with people (my team, managers, clients, and contractors) and ensuring I have all required information, or delivered all details to other stakeholders.
 
-I believe that communication is not just about delivering or receiving messages, it's about understanding all details associated with the subject and ensuring the receiving party has understood all these details. Or if I'm on the receiving side, that I understood all the requirements, and quickly analysed them and drafted a plan for delivering it, and the resources required.
+I believe that communication is not just about delivering or receiving messages, it's about understanding all details associated with the subject and ensuring the receiving party has understood all these details. Or if I'm on the receiving side, that I understood all the requirements, asked questions to clarify any ambiguities and milestones, analysed them and drafted a plan for delivering it, along with the required resources.
 
 [(Back to top)](#sherif-shendidy)
 
 #### Problem Solving
 
-I believe that without problems, there will be no jobs for us out there, so they never scare me, they just tease my brain, and the harder the challenge, the more I get excited.
+I believe that without problems, there will be no jobs for us out there, so they never scare me, they just tease my brain, and the harder the challenge, the more I get excited and commit to finding the best solution.
 
 With this mindset, I managed to develop a stable, calm, and analytical approach to solving problems I face on my day to day life, or at work, asking the basic questions of:
 
@@ -62,6 +62,7 @@ With this mindset, I managed to develop a stable, calm, and analytical approach 
 - Which one/s is/are the most relevant to the case I have in hand.
 - What are the costs of each possible solution (money, time, memory, clarity of code, ease of use and integration with other parts of the project)
 - Decide and start implementing the solution, while testing it regularly during implementation.
+- Monitoring the performance after implementing a solution and ensuring it's inline with our requirements/expectations.
 
 [(Back to top)](#sherif-shendidy)
 
@@ -83,7 +84,7 @@ As London’s leading software development boot camp, Makers Academy students le
 
 ### Other qualifications
 
--	B.Sc. in civil engineering – Alexandria University- Egypt 2002.
+-	BSc. in civil engineering – Alexandria University- Egypt 2002.
 -	NVQ Level 6 “Construction Contracting Operations Management” – UK 2015
 -	Black CSCS card (Construction Industry Training Board “CITB” – UK) 2015
 -	SMSTS (Site Management Safety Training Scheme – UK) 2015
@@ -141,13 +142,13 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 ## Hobbies and Interests
 - **Coding:**
 
-    I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, it spent hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
+    I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, I'd spend hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
 - **Flying:**
 
-    My other childhood obsession was with flying, and I managed to make my dream come true back in 2009 when I got my PPL (Private Pilot Licence) allowing me to fly my family and friends in a single piston engine airplanes.
+    My other childhood obsession was with flying, and I managed to make my dream come true in 2009 when I got my PPL (Private Pilot Licence) allowing me to fly my family and friends in single engine airplanes.
 - **Diving:**
 
-    One of the quietest and calmest experience you can ever have is diving 40 feet below water and merging with the beautiful nature and creatures living in harmony far away from all the pollution generated by humans.
+    One of the quietest and calmest experiences you can ever have is diving 40 feet below water and merging with the beautiful nature and creatures living in harmony far away from all the pollution generated by humans. With my Padi Advanced Diver qualification I grab any opportunity to dive whenever possible, particularly when I visit the red sea in Egypt.
 - **Reading:**
 
     When I get a chance, I enjoy reading for authors like Dan Brown, and Sidney Sheldon.
@@ -156,22 +157,3 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
     Whenever possible, I prefer to go to my destinations walking. And in the weekends I take my family to walk around beautiful parks or to explore London city.
 
 [(Back to top)](#sherif-shendidy)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Comment
