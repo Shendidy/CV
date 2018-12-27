@@ -132,16 +132,20 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby |
+| [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby / Rspec |
 | [Students Directory](https://github.com/Shendidy/student-directory) | Final program to develop as part of Makers Pre-course prior to starting the onsite bootcamp | Ruby |
 | [FizzBuzz](https://github.com/Shendidy/fizzbuzz) | My first pairing experience with one of my colleagues in Makers Academy | Ruby |
 
 [(Back to top)](#sherif-shendidy)
 
 ## Hobbies and Interests
-- **Cycling** : I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
-- **Yoga** : To stretch out after a day at the computer.
-- **Baking** : I make an excellent lemon drizzle!
+- **Coding**
+    I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, it spent hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
+- **Flying**
+    To stretch out after a day at the computer.
+- **Diving** : I make an excellent lemon drizzle!
+- **Reading** : I make an excellent lemon drizzle!
+- **Walking** : I make an excellent lemon drizzle!
 
 [(Back to top)](#sherif-shendidy)
 
