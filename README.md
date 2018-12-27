@@ -1,4 +1,5 @@
-# Sherif Shendidy\nsherif@shendidy.com
+# Sherif Shendidy
+sherif@shendidy.com
 
 **Links**
 
