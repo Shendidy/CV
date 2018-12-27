@@ -23,17 +23,11 @@ I also taught myself a bit of flash and developed a very simple and basic online
 
 [(Back to top)](#sherif-shendidy)
 
-#### Another Skill
+#### Team member/manager
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I bring with me the skills I developed as a team member/manager over the years as a project manager in one of the toughest industries in the world, and after working with people from so many different backgrounds in the UK, or in Dubai (U.A.E.).
 
-- Experience
-- Achievements
-- Evidence
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+The way I always preferred to manage my teams was to lead by example and ensure all my team members are comfortable sharing their thoughts and suggestions, especially when they contradict mine. Respect, communication, and engaging were always my tools to ensure everyone is putting in 110% of their efforts.
 
 [(Back to top)](#sherif-shendidy)
 
