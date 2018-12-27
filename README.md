@@ -139,13 +139,18 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 [(Back to top)](#sherif-shendidy)
 
 ## Hobbies and Interests
-- **Coding**
+- **Coding:**
+
     I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, it spent hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
-- **Flying**
+- **Flying:**
+
     To stretch out after a day at the computer.
-- **Diving** : I make an excellent lemon drizzle!
-- **Reading** : I make an excellent lemon drizzle!
-- **Walking** : I make an excellent lemon drizzle!
+- **Diving:**
+    I make an excellent lemon drizzle!
+- **Reading:**
+    I make an excellent lemon drizzle!
+- **Walking:**
+    I make an excellent lemon drizzle!
 
 [(Back to top)](#sherif-shendidy)
 
