@@ -2,7 +2,7 @@
 
 **Links**
 
-[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Interests](#hobbies-and-interest) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [email me](mailto:sherif@shendidy.com)
+[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Interests](#hobbies-and-interests) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [email me](mailto:sherif@shendidy.com)
 ##
 
 ## About me
