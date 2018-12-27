@@ -13,17 +13,13 @@ Coming to the coding community from the construction industry with a BSc. in civ
 
 ## Skills
 
-#### This Skill
+#### Self Teaching
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Since childhood I was so attracted to programming, and started with Basic on my commodore 64 back in the 80s. Later on in university I started reading books about C, then C++.
 
-- Experience
-- Achievements
-- Evidence
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Later on I started learning Visual Studio and wrote few software using Visual C#, 2 of which are [Text Guard lite](http://shendidy.com/software/textguardlite.html), and [Vapulator](https://www.softpedia.com/get/Others/Home-Education/Vapulator.shtml).
+
+I also taught myself a bit of flash and developed a very simple and basic online game [Maya in the Park](http://www.shendidy.com/games/mip.html), then my biggest challenge was when I wanted to start a free online lottery site where members can fill their free tickets weekly, can connect with other players and earn more tickets, check their current and previous tickets, and many other options. To do that I researched and learned HTML, CSS, JavaScript, PHP, and MYSQL. check it out at [BigBOF](https://www.bigbof.com).
 
 [(Back to top)](#sherif-shendidy)
 
