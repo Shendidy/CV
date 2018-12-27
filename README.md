@@ -133,7 +133,8 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby |
-|---        |---         |---           |
+| [Students Directory](https://github.com/Shendidy/student-directory) | Final program to develop as part of Makers Pre-course prior to starting the onsite bootcamp | Ruby |
+| [FizzBuzz](https://github.com/Shendidy/fizzbuzz) | My first pairing experience with one of my colleagues in Makers Academy | Ruby |
 
 [(Back to top)](#sherif-shendidy)
 
