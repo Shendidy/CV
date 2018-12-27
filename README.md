@@ -1,8 +1,8 @@
-# Sherif Shendidy
+# Sherif Shendidy - ###sherif@shendidy.com
 
 **Links**
 
-[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [GitHub](https://github.com/Shendidy?tab=repositories)
+[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy)
 ##
 
 ## About me
