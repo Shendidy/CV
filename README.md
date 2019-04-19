@@ -77,8 +77,11 @@ As London’s leading software development boot camp, Makers Academy students le
 - Test driven development and behaviour driven development
 - Pair programming
 - XP values
-- Ruby, Rails, JavaScript
+- HTML, CSS, Flexbox, bootstrap
+- Ruby, Rails, JavaScript, Node.js, React, PHP, C#
+- SQL (mySQL, Postgresql) & nonSQL (firebase)
 - RSpec, Jasmine
+- Heroku, AWS
 
 [(Back to top)](#sherif-shendidy)
 
