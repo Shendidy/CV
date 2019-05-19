@@ -10,7 +10,7 @@
 
 ## About me
 
-With a BSc in civil engineering, and as projects manager for the past 12 years in one of the most challenging and dynamic industries in the world and in the most robust city of Dubai, I'm determined to live my life now doing what I enjoy the most and start a career in the software development. Bringing with me all life and professional skills  gained over the years, along with what I learnt at Makers academy and before that as a hobyist software developer.
+With a BSc in civil engineering, and as projects manager for the past 12 years in one of the most challenging and dynamic industries in the world and in the most robust city of Dubai, I'm determined to live my life now doing what I enjoy the most and start a career in the software development. Bringing with me all life and professional skills  gained over the years, along with what I learnt at Makers academy and before that as a hobbyist software developer.
 
 A lot more about me can be found on my site: [shendidy.com](http://www.shendidy.com)
 
@@ -24,18 +24,18 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 |---        |---         |---           |
 | [what-zen](https://github.com/what-zen/what-zen-app.git) | This was my final project at Makers Academy during weeks 11 & 12, the app helps users plan and manage their tasks to deliver a project, and allows them to chat together on the same project page to avoid losing focus while planning their work. | React, Firebase, Cypress, Node.js |
 | [My Notes](https://github.com/Shendidy/my_notes.git) | I developed this very handy, personalised notes application, during my learning of Ruby on Rails in my own time as I knew I shall be using it in one of my future projects at Makers Academy | Ruby on Rails / RSpec|
-| [@cebook](https://github.com/Shendidy/acebook-desk-warriors/tree/master) | This is a simple mimic of facebook that I developed with the desktop warriors team during weeks 8 & 9 in our Makers Acadamy coding bootcamp | Ruby on Rails / RSpec |
-| [Thermostat](https://github.com/Shendidy/thermostat_sherif.git) | This is a node.js application I created during my 5th week at Makers to demonstrate how fast I can learn a new technoligy and it's TDD to deliver a full stack web app. | Node.js, Jasmine |
+| [@cebook](https://github.com/Shendidy/acebook-desk-warriors/tree/master) | This is a simple mimic of facebook that I developed with the desktop warriors team during weeks 8 & 9 in our Makers Academy coding boot camp | Ruby on Rails / RSpec |
+| [Thermostat](https://github.com/Shendidy/thermostat_sherif.git) | This is a node.js application I created during my 5th week at Makers to demonstrate how fast I can learn a new technology and its TDD to deliver a full stack web app. | Node.js, Jasmine |
 | [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby / RSpec |
 |        |         |           |
 
-Below is a table of some projects (and their links) I completed before joining Makers bootcamp:
+Below is a table of some projects (and their links) I completed before joining Makers boot camp:
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [bigbof.com](https://www.bigbof.com) | A free weekly and daily lottery website. | PHP, MySQL, Javascript, HTML, CSS |
 | [Maya-in-the-park]() | An online flash game, where Maya (my eldest daughter) is chasing some candies in the park and the player needs to help her pick enough candies to extend the timer before the game ends. | Flash |
-| [Vapulator](http://www.shendidy.com/software/vapulator.html)| This is an application to help those who like mixing their own e-juice for their e-cigerettes. It takes the required specs and calculates the proprtions required from all ingerediants to mix the final volume of liquid. | Visual C# |
+| [Vapulator](http://www.shendidy.com/software/vapulator.html)| This is an application to help those who like mixing their own e-juice for their e-cigarettes. It takes the required specs and calculates the proportions required from all ingredients to mix the final volume of liquid. | Visual C# |
 | [Text-guard](http://www.shendidy.com/software/textguardlite.html)| This program helps you convert any text you want to send to others with complete confidentiality into a sophisticated numeric code that can only be translated back to text using Text Guard lite with the same MINOR version number. | Visual C# |
 |||
 
@@ -94,12 +94,12 @@ I believe that communication is not just about delivering or receiving messages,
 
 ## Education
 
-### Makers Academy Fellowship (January 2019 to March 2019)
+### Makers Academy (January 2019 to March 2019)
 
-As London’s leading software development boot camp, Makers Academy students learn how to code in 16 intensive weeks and are set up with all the skills needed to become a developer. The bootcamp focuses on:
+As London’s leading software development boot camp, Makers Academy students learn how to code in 16 intensive weeks and are set up with all the skills needed to become a developer. The boot camp focuses on:
 
 - Agile methodologies
-- Object-oriented design
+- Object Oriented Design
 - Test driven development and behaviour driven development
 - Pair programming
 - XP values
@@ -131,7 +131,7 @@ As London’s leading software development boot camp, Makers Academy students le
 
 [(Back to top)](#sherif-shendidy)
 
-## Experience before Makers bootcamp
+## Experience before Makers boot camp
 
 **Spie Batignolles International (Dubai)** (Sep 2015 to December 2018)
 *Project Manager*
