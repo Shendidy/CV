@@ -157,9 +157,6 @@ As London’s leading software development boot camp, Makers Academy students le
 [(Back to top)](#sherif-shendidy)
 
 ## Hobbies and Interests
-- **Coding:**
-
-    I always had huge interest in learning how to code, and whenever I had spare time and an idea of a program, I'd spend hours just putting my thoughts into action until the final software is running. I wouldn't feel the time passing by and enjoy every minute of solving the problems that come my way.
 - **Flying:**
 
     My other childhood obsession was with flying, and I managed to make my dream come true in 2009 when I got my PPL (Private Pilot Licence) allowing me to fly my family and friends in single engine airplanes.
@@ -169,9 +166,6 @@ As London’s leading software development boot camp, Makers Academy students le
 - **Reading:**
 
     When I get a chance, I enjoy reading for authors like Dan Brown, and Sidney Sheldon.
-- **Walking:**
-
-    Whenever possible, I prefer to go to my destinations walking. And in the weekends I take my family to walk around beautiful parks or to explore London city.
 
 [(Back to top)](#sherif-shendidy)
 </div>
