@@ -1,17 +1,33 @@
-# Sherif Shendidy
+<body style="background-image: url('http://shendidy.com/Images/bg1.png'); background-size: 100%;">
+<div style="width: 90%; margin-left: 5%; background: rgba(0, 0, 0, 0.7); padding: 10px; border: 0.5px solid darkgreen; border-radius: 25px">
+<big>Sherif Shendidy</big> <sub><small>Software Engineer</small></sub>
 
 **Links**
 
-[About me](#about-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Interests](#hobbies-and-interests) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [email me](mailto:sherif@shendidy.com)
-##
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#hobbies-and-interests) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [email me](mailto:sherif@shendidy.com)
+
+<div style="text-align:center"><img src="http://shendidy.com/Images/ss1.png" /></div>
 
 ## About me
 
-Coming to the coding community from the construction industry with a BSc. in civil engineering and where I held the position of project manager for more than 10 years without finding joy and only succeeded due to my dedication and strive to success rather than passion and innovation. Now I’m so determined to live my life doing what I enjoy the most, developing any and all types of software, while working with a team of likeminded people that enjoy putting their brains together to solve problems and deliver a perfect product.
+With a BSc in civil engineering, and as projects manager for the past 12 years in one of the most challenging and dynamic industries in the world and in the most robust city of Dubai, I'm determined to live my life now doing what I enjoy the most and start a career in the software development. Bringing with me all life and professional skills  gained over the years, along with what I learnt at Makers academy and before that as a hobyist software developer.
 
-I am a conscientious and hardworking person who’s also able to operate with people at all levels within an organisation and able to gain people's respect and trust. Positive, analytical, problem solving thinker, and quick learner. Equally happy to develop and grow within a project or undertake one and produce the desired results within a specific time frame, while keeping my company’s interests fulfilled and keeping accurate and detailed records of claims or variations leading situations.
+A lot more about me can be found on my site: [shendidy.com](http://www.shendidy.com)
 
-Possessing strong communication, planning, management, and organisational skills gained over several years of professional hard work in the UK, and the Middle East. With the ability to work and integrate in the most challenging and multi-cultural environments, and to develop a great rapport with my colleagues and clients alike.
+[(Back to top)](#sherif-shendidy)
+
+## Projects
+
+Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositories) projects:
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [My Notes](https://github.com/Shendidy/my_notes.git) | I developed this very handy, personalised notes application, during my learning of Ruby on Rails in my own time as I knew I shall be using it in one of my future projects at Makers Academy | Ruby on Rails / RSpec|
+| [@cebook](https://github.com/Shendidy/acebook-desk-warriors/tree/master) | This is a simple mimic of facebook that I developed with the desktop warriors team during weeks 8 & 9 in our Makers Acadamy coding bootcamp | Ruby on Rails / RSpec |
+| [Thermostat](https://github.com/Shendidy/thermostat_sherif.git) | This is a node.js application I created during my 5th week at Makers to demonstrate how fast I can learn a new technoligy and it's TDD to deliver a full stack web app. | Node.js, Jasmine |
+| [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby / RSpec |
+| [Students Directory](https://github.com/Shendidy/student-directory) | Final program to develop as part of Makers Pre-course prior to starting the onsite bootcamp | Ruby |
+| [FizzBuzz](https://github.com/Shendidy/fizzbuzz) | My first pairing experience with one of my colleagues in Makers Academy | Ruby |
 
 [(Back to top)](#sherif-shendidy)
 
@@ -130,18 +146,6 @@ As London’s leading software development boot camp, Makers Academy students le
 
 [(Back to top)](#sherif-shendidy)
 
-## Projects
-
-Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositories) projects:
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby / Rspec |
-| [Students Directory](https://github.com/Shendidy/student-directory) | Final program to develop as part of Makers Pre-course prior to starting the onsite bootcamp | Ruby |
-| [FizzBuzz](https://github.com/Shendidy/fizzbuzz) | My first pairing experience with one of my colleagues in Makers Academy | Ruby |
-
-[(Back to top)](#sherif-shendidy)
-
 ## Hobbies and Interests
 - **Coding:**
 
@@ -160,3 +164,4 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
     Whenever possible, I prefer to go to my destinations walking. And in the weekends I take my family to walk around beautiful parks or to explore London city.
 
 [(Back to top)](#sherif-shendidy)
+</div>
