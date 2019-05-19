@@ -4,7 +4,7 @@
 
 **Links**
 
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#hobbies-and-interests) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [email me](mailto:sherif@shendidy.com)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#hobbies-and-interests) | [GitHub](https://github.com/Shendidy?tab=repositories) | [LinkedIn](www.linkedin.com/in/sherif-shendidy) | [shendidy.com](http://www.shendidy.com) | [email me](mailto:sherif@shendidy.com)
 
 <div style="text-align:center"><img src="http://shendidy.com/Images/ss1.png" /></div>
 
