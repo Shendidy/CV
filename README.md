@@ -1,6 +1,6 @@
 <body style="background-image: url('http://shendidy.com/Images/bg1.png'); background-size: 100%;">
 <div style="width: 90%; margin-left: 5%; background: rgba(0, 0, 0, 0.7); padding: 10px; border: 0.5px solid darkgreen; border-radius: 25px">
-<big>Sherif Shendidy</big> <sub><small>Software Engineer</small></sub>
+<big><strong>Sherif Shendidy</strong></big> - <small>Software Engineer</small>
 
 **Links**
 
@@ -27,8 +27,17 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 | [@cebook](https://github.com/Shendidy/acebook-desk-warriors/tree/master) | This is a simple mimic of facebook that I developed with the desktop warriors team during weeks 8 & 9 in our Makers Acadamy coding bootcamp | Ruby on Rails / RSpec |
 | [Thermostat](https://github.com/Shendidy/thermostat_sherif.git) | This is a node.js application I created during my 5th week at Makers to demonstrate how fast I can learn a new technoligy and it's TDD to deliver a full stack web app. | Node.js, Jasmine |
 | [Rspec Tutorials](https://github.com/Shendidy/rspec_tutorials) | Learning how to use Rspec for TDD | Ruby / RSpec |
-| [Students Directory](https://github.com/Shendidy/student-directory) | Final program to develop as part of Makers Pre-course prior to starting the onsite bootcamp | Ruby |
-| [FizzBuzz](https://github.com/Shendidy/fizzbuzz) | My first pairing experience with one of my colleagues in Makers Academy | Ruby |
+|        |         |           |
+
+Below is a table of some projects (and their links) I completed before joining Makers bootcamp:
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [bigbof.com](https://www.bigbof.com) | A free weekly and daily lottery website. | PHP, MySQL, Javascript, HTML, CSS |
+| [Maya-in-the-park]() | An online flash game, where Maya (my eldest daughter) is chasing some candies in the park and the player needs to help her pick enough candies to extend the timer before the game ends. | Flash |
+| [Vapulator](http://www.shendidy.com/software/vapulator.html)| This is an application to help those who like mixing their own e-juice for their e-cigerettes. It takes the required specs and calculates the proprtions required from all ingerediants to mix the final volume of liquid. | Visual C# |
+| [Text-guard](http://www.shendidy.com/software/textguardlite.html)| This program helps you convert any text you want to send to others with complete confidentiality into a sophisticated numeric code that can only be translated back to text using Text Guard lite with the same MINOR version number. | Visual C# |
+|||
 
 [(Back to top)](#sherif-shendidy)
 
@@ -38,9 +47,24 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 
 Since childhood I was so attracted to software development, and started with Basic on my commodore 64 back in the 80s. Later on in university I started reading books about C, then C++. As well as working for free during a summer holiday in a hardware company fixing desktop systems from scratch depending on the specifications set by our clients and installing all required software and operating system.
 
-Later on I started learning Visual Studio and wrote few programs using Visual C#, 2 of which are [Text Guard lite](http://shendidy.com/software/textguardlite.html), and [Vapulator](https://www.softpedia.com/get/Others/Home-Education/Vapulator.shtml).
+Later on I started learning Visual Studio and wrote few programs using Visual C#, 2 of which are [Text Guard lite](http://shendidy.com/software/textguardlite.html), and [Vapulator](http://www.shendidy.com/software/vapulator.html).
 
 I also taught myself a bit of flash and developed a very simple and basic online game [Maya in the Park](http://www.shendidy.com/games/mip.html), then my biggest challenge was when I wanted to start a free online lottery site where members can fill their free tickets weekly, connect with other players and earn more tickets, check their current and previous tickets, check any winnings, claiming their prize if any, and many other options. To do that I researched and learned HTML, CSS, JavaScript, PHP, and MYSQL. From the moment I had the website idea to launch it took me 9 months of learning and implementation during my free time of a 6 days a week very demanding job. Check it out at [BigBOF](https://www.bigbof.com).
+
+[(Back to top)](#sherif-shendidy)
+
+#### Problem Solving
+
+I believe that without problems, there will be no jobs for us out there, so they never scare me, they just tease my brain, and the harder the challenge, the more I get excited and commit to finding the best solution.
+
+With this mindset, I managed to develop a stable, calm, and analytical approach to solving problems I face on my day to day life, or at work, asking the basic questions of:
+
+- How they started (or what is the final requirement).
+- What are the possible solutions and what are their consequences.
+- Which one/s is/are the most relevant to the case I have in hand.
+- What are the costs of each possible solution (money, time, memory, clarity of code, ease of use and integration with other parts of the project)
+- Decide and start implementing the solution, while testing it regularly during implementation.
+- Monitoring the performance after implementing a solution and ensuring it's inline with our requirements/expectations.
 
 [(Back to top)](#sherif-shendidy)
 
@@ -65,21 +89,6 @@ proposing alternatives, rescheduling tasks based on risks, priorities, and subse
 I'm confidently able to communicate with people (my team, managers, clients, and contractors) and ensuring I have all required information, or delivered all details to other stakeholders.
 
 I believe that communication is not just about delivering or receiving messages, it's about understanding all details associated with the subject and ensuring the receiving party has understood all these details. Or if I'm on the receiving side, that I understood all the requirements, asked questions to clarify any ambiguities and milestones, analysed them and drafted a plan for delivering it, along with the required resources.
-
-[(Back to top)](#sherif-shendidy)
-
-#### Problem Solving
-
-I believe that without problems, there will be no jobs for us out there, so they never scare me, they just tease my brain, and the harder the challenge, the more I get excited and commit to finding the best solution.
-
-With this mindset, I managed to develop a stable, calm, and analytical approach to solving problems I face on my day to day life, or at work, asking the basic questions of:
-
-- How they started (or what is the final requirement).
-- What are the possible solutions and what are their consequences.
-- Which one/s is/are the most relevant to the case I have in hand.
-- What are the costs of each possible solution (money, time, memory, clarity of code, ease of use and integration with other parts of the project)
-- Decide and start implementing the solution, while testing it regularly during implementation.
-- Monitoring the performance after implementing a solution and ensuring it's inline with our requirements/expectations.
 
 [(Back to top)](#sherif-shendidy)
 
@@ -122,7 +131,7 @@ As London’s leading software development boot camp, Makers Academy students le
 
 [(Back to top)](#sherif-shendidy)
 
-## Experience
+## Experience before Makers bootcamp
 
 **Spie Batignolles International (Dubai)** (Sep 2015 to December 2018)
 *Project Manager*
