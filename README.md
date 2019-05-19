@@ -1,4 +1,4 @@
-<body style="background-image: url('http://shendidy.com/Images/bg1.png'); background-size: 100%;">
+<body id="top" style="background-image: url('http://shendidy.com/Images/bg1.png'); background-size: 100%;">
 <div style="width: 90%; margin-left: 5%; background: rgba(0, 0, 0, 0.7); padding: 10px; border: 0.5px solid darkgreen; border-radius: 25px">
 <big><strong>Sherif Shendidy</strong></big> - <small>Software Engineer</small>
 
@@ -14,7 +14,7 @@ With a BSc in civil engineering, and as projects manager for the past 12 years i
 
 A lot more about me can be found on my site: [shendidy.com](http://www.shendidy.com)
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 ## Projects
 
@@ -39,7 +39,7 @@ Below is a table of some projects (and their links) I completed before joining M
 | [Text-guard](http://www.shendidy.com/software/textguardlite.html)| This program helps you convert any text you want to send to others with complete confidentiality into a sophisticated numeric code that can only be translated back to text using Text Guard lite with the same MINOR version number. | Visual C# |
 |||
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 ## Skills
 
@@ -51,7 +51,7 @@ Later on I started learning Visual Studio and wrote few programs using Visual C#
 
 I also taught myself a bit of flash and developed a very simple and basic online game [Maya in the Park](http://www.shendidy.com/games/mip.html), then my biggest challenge was when I wanted to start a free online lottery site where members can fill their free tickets weekly, connect with other players and earn more tickets, check their current and previous tickets, check any winnings, claiming their prize if any, and many other options. To do that I researched and learned HTML, CSS, JavaScript, PHP, and MYSQL. From the moment I had the website idea to launch it took me 9 months of learning and implementation during my free time of a 6 days a week very demanding job. Check it out at [BigBOF](https://www.bigbof.com).
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 #### Problem Solving
 
@@ -66,7 +66,7 @@ With this mindset, I managed to develop a stable, calm, and analytical approach 
 - Decide and start implementing the solution, while testing it regularly during implementation.
 - Monitoring the performance after implementing a solution and ensuring it's inline with our requirements/expectations.
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 #### Team member/manager
 
@@ -74,7 +74,7 @@ I bring with me the skills I developed as a team member/manager over the years a
 
 The way I always preferred to manage my teams was to lead by example and ensure all my team members are comfortable sharing their thoughts and suggestions, especially when they contradict mine. Respect, communication, and engaging were always my tools to ensure everyone is putting in 110% of their efforts.
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 #### Time/Risks/Priorities Management
 
@@ -82,7 +82,7 @@ The way I always preferred to manage my teams was to lead by example and ensure 
 
 proposing alternatives, rescheduling tasks based on risks, priorities, and subsequent effects on the overall works schedule, delegation, and discussing available options are my approaches to such regular situations.
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 #### Communication
 
@@ -90,7 +90,7 @@ I'm confidently able to communicate with people (my team, managers, clients, and
 
 I believe that communication is not just about delivering or receiving messages, it's about understanding all details associated with the subject and ensuring the receiving party has understood all these details. Or if I'm on the receiving side, that I understood all the requirements, asked questions to clarify any ambiguities and milestones, analysed them and drafted a plan for delivering it, along with the required resources.
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 ## Education
 
@@ -109,7 +109,7 @@ As London’s leading software development boot camp, Makers Academy students le
 - RSpec, Jasmine
 - Heroku, AWS
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 ### Other qualifications
 
@@ -120,7 +120,7 @@ As London’s leading software development boot camp, Makers Academy students le
 -	MCIOB (Chartered Construction Manager – UK)
 -	GMICE (Graduate Member of Institution of Civil Engineers – UK)
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 ### languages
 
@@ -129,32 +129,34 @@ As London’s leading software development boot camp, Makers Academy students le
 - Russian (fair)
 - French (fair)
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
-## Experience before Makers boot camp
+## Experience
 
-**Spie Batignolles International (Dubai)** (Sep 2015 to December 2018)
+***This is what I did before starting the adventure at Makers boot camp:***
+
+- **Spie Batignolles International (Dubai)** (Sep 2015 to December 2018)
 *Project Manager*
 
-**NSCC International Limited (Qatar)** (Sep 2014 to Sep 2015)
+- **NSCC International Limited (Qatar)** (Sep 2014 to Sep 2015)
 *Project Manager*
 
-**Orascom Construction Industries (Dubai)** (Dec 2010 to Apr 2013)
+- **Orascom Construction Industries (Dubai)** (Dec 2010 to Apr 2013)
 *Project Manager*
 
-**Dutco Balfour Beaty (Dubai)** (Aug 2007 to Nov 2010)
+- **Dutco Balfour Beaty (Dubai)** (Aug 2007 to Nov 2010)
 *Project Manager*
 
-**Skanska UK** (Apr 2004 to Jul 2007)
+- **Skanska UK** (Apr 2004 to Jul 2007)
 *Project Engineer*
 
-**May Gurney (UK)** (Jun 2003 to Feb 2004)
+- **May Gurney (UK)** (Jun 2003 to Feb 2004)
 *Assistant Site Agent*
 
-**Misr Raymond Foundations (Egypt)** (Jul 2002 to Mar 2003)
+- **Misr Raymond Foundations (Egypt)** (Jul 2002 to Mar 2003)
 *Site Engineer*
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 
 ## Hobbies and Interests
 - **Flying:**
@@ -167,5 +169,5 @@ As London’s leading software development boot camp, Makers Academy students le
 
     When I get a chance, I enjoy reading for authors like Dan Brown, and Sidney Sheldon.
 
-[(Back to top)](#sherif-shendidy)
+[(Back to top)](#top)
 </div>
