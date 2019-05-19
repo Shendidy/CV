@@ -22,6 +22,7 @@ Below is a table of my major [GitHub](https://github.com/Shendidy?tab=repositori
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [what-zen](https://github.com/what-zen/what-zen-app.git) | This was my final project at Makers Academy during weeks 11 & 12, the app helps users plan and manage their tasks to deliver a project, and allows them to chat together on the same project page to avoid losing focus while planning their work. | React, Firebase, Cypress, Node.js |
 | [My Notes](https://github.com/Shendidy/my_notes.git) | I developed this very handy, personalised notes application, during my learning of Ruby on Rails in my own time as I knew I shall be using it in one of my future projects at Makers Academy | Ruby on Rails / RSpec|
 | [@cebook](https://github.com/Shendidy/acebook-desk-warriors/tree/master) | This is a simple mimic of facebook that I developed with the desktop warriors team during weeks 8 & 9 in our Makers Acadamy coding bootcamp | Ruby on Rails / RSpec |
 | [Thermostat](https://github.com/Shendidy/thermostat_sherif.git) | This is a node.js application I created during my 5th week at Makers to demonstrate how fast I can learn a new technoligy and it's TDD to deliver a full stack web app. | Node.js, Jasmine |
