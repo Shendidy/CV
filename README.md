@@ -37,7 +37,7 @@ Below is a table of some projects (and their links) I completed before joining M
 | [Maya-in-the-park]() | An online flash game, where Maya (my eldest daughter) is chasing some candies in the park and the player needs to help her pick enough candies to extend the timer before the game ends. | Flash |
 | [Vapulator](http://www.shendidy.com/software/vapulator.html)| This is an application to help those who like mixing their own e-juice for their e-cigarettes. It takes the required specs and calculates the proportions required from all ingredients to mix the final volume of liquid. | Visual C# |
 | [Text-guard](http://www.shendidy.com/software/textguardlite.html)| This program helps you convert any text you want to send to others with complete confidentiality into a sophisticated numeric code that can only be translated back to text using Text Guard lite with the same MINOR version number. | Visual C# |
-|||
+||||
 
 [(Back to top)](#top)
 
@@ -68,27 +68,13 @@ With this mindset, I managed to develop a stable, calm, and analytical approach 
 
 [(Back to top)](#top)
 
-#### Team member/manager
+#### Agile, scrum, and Pairing techniques
 
-I bring with me the skills I developed as a team member/manager over the years as a project manager in one of the toughest industries in the world, and after working with people from so many different backgrounds in the UK, or in Dubai (U.A.E.).
+At Makers, I practiced a lot of pairing and agile approach to deliver a project in accordance with the client's requirements, on time, clean and DRY, and fully tested.
 
-The way I always preferred to manage my teams was to lead by example and ensure all my team members are comfortable sharing their thoughts and suggestions, especially when they contradict mine. Respect, communication, and engaging were always my tools to ensure everyone is putting in 110% of their efforts.
+Working in teams, we'd regularly (twice a day) do stand-ups to discuss briefly where each pair stand with their tasks and any blockage they're facing and help each other solving them. Then plan our works before our next stand-up.
 
-[(Back to top)](#top)
-
-#### Time/Risks/Priorities Management
-
-"NO" is an answer that can almost always have a negative vibe around it. However, to successfully manage my time and priorities I developed the art of knowing how and when to say it, without stopping the progress of activities that must keep on going.
-
-proposing alternatives, rescheduling tasks based on risks, priorities, and subsequent effects on the overall works schedule, delegation, and discussing available options are my approaches to such regular situations.
-
-[(Back to top)](#top)
-
-#### Communication
-
-I'm confidently able to communicate with people (my team, managers, clients, and contractors) and ensuring I have all required information, or delivered all details to other stakeholders.
-
-I believe that communication is not just about delivering or receiving messages, it's about understanding all details associated with the subject and ensuring the receiving party has understood all these details. Or if I'm on the receiving side, that I understood all the requirements, asked questions to clarify any ambiguities and milestones, analysed them and drafted a plan for delivering it, along with the required resources.
+Then every other day we'd have a retro to look at the bigger picture and analyse where the project stands from the plan put in place at the start phase and eliminate any deviation from it.
 
 [(Back to top)](#top)
 
