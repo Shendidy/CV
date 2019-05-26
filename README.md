@@ -124,26 +124,21 @@ As London’s leading software development boot camp, Makers Academy students le
 
 ***This is what I did before starting the adventure at Makers boot camp:***
 
-- **Spie Batignolles International (Dubai)** (Sep 2015 to December 2018)
-*Project Manager*
+- Spie Batignolles International (Dubai - September 2015 to December 2018 - Project Manager)
 
-- **NSCC International Limited (Qatar)** (Sep 2014 to Sep 2015)
-*Project Manager*
+- NSCC International Limited (Qatar - September 2014 to September 2015 - Project Manager)
 
-- **Orascom Construction Industries (Dubai)** (Dec 2010 to Apr 2013)
-*Project Manager*
+- EQCC-PORR (Qatar - May 2013 to February 2014 - Project Manager)
 
-- **Dutco Balfour Beaty (Dubai)** (Aug 2007 to Nov 2010)
-*Project Manager*
+- Orascom Construction Industries (Dubai - December 2010 to April 2013 - Project Manager)
 
-- **Skanska UK** (Apr 2004 to Jul 2007)
-*Project Engineer*
+- Dutco Balfour Beaty (Dubai - August 2007 to November 2010 - Project Manager)
 
-- **May Gurney (UK)** (Jun 2003 to Feb 2004)
-*Assistant Site Agent*
+- Skanska (UK - April 2004 to July 2007 - Project Engineer)
 
-- **Misr Raymond Foundations (Egypt)** (Jul 2002 to Mar 2003)
-*Site Engineer*
+- May Gurney (UK - June 2003 to February 2004 - Assistant Site Agent)
+
+- Misr Raymond Foundations (Egypt - July 2002 to March 2003 - Site Engineer)
 
 [(Back to top)](#top)
 
