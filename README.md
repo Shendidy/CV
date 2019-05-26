@@ -10,7 +10,10 @@
 
 ## About me
 
-With a BSc in civil engineering, and as projects manager for the past 12 years in one of the most challenging and dynamic industries in the world and in the most robust city, Dubai, I'm determined to live my life now doing what I enjoy the most and start a career in the software development. Bringing with me all life and professional skills  gained over the years, along with what I learnt at Makers academy and before that as a hobbyist software developer.
+With experience and training to use agile approach to deliver applications using TDD, OOP, in teams and with friendly/supportive pairing skills, and hands-on experience with technologies such as Ruby on Rails, React, Node.js, PHP, C#, HTML, CSS, and others.
+
+Also my previous profession (construction project manager), and education (BSc in civil engineering) gave my wide experience in analysing/solving problems, setting priorities, dealing with stress, time management and planning ahead to meet deadlines, integrating with teams and people from all walks of life and backgrounds, as well as facing and effectively communicating with clients to helping deliver at the end a product as per that meets their requirements/needs.
+
 
 A lot more about me can be found on my site: [shendidy.com](http://www.shendidy.com)
 
