@@ -10,7 +10,7 @@
 
 ## About me
 
-With experience and training to use agile approach to deliver applications using TDD, OOP, in teams and with friendly/supportive pairing skills, and hands-on experience with technologies such as Ruby on Rails, React, Node.js, PHP, C#, HTML, CSS, and others.
+With experience and training to use agile approach to deliver applications using TDD, OOP, in teams and with friendly/supportive pairing skills, and hands-on experience with technologies such as Ruby on Rails, React, Node.js, PHP, C++, C#, HTML, CSS, and others.
 
 Also my previous profession (construction project manager), and education (BSc in civil engineering) gave my wide experience in analysing/solving problems, setting priorities, dealing with stress, time management and planning ahead to meet deadlines, integrating with teams and people from all walks of life and backgrounds, as well as facing and effectively communicating with clients to help deliver at the end a product that meets their requirements/needs.
 
@@ -93,7 +93,7 @@ As London’s leading software development boot camp, Makers Academy students le
 - Pair programming
 - XP values
 - HTML, CSS, Flexbox, bootstrap
-- Ruby, Rails, JavaScript, Node.js, React, PHP, C#
+- Ruby, Rails, JavaScript, Node.js, React, PHP, C#, C++
 - SQL (mySQL, Postgresql) & nonSQL (firebase)
 - RSpec, Jasmine
 - Heroku, AWS
